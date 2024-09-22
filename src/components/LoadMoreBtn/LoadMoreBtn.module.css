@@ -1,0 +1,21 @@
+.content{
+  margin-top: 30px;
+}
+
+.loadmore_btn {
+  padding: 10px 15px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+  color: #000000;
+  background-color: rgba(112, 211, 221, 0.3);
+}
+
+.loadmore_btn:hover,
+.loadmore_btn:focus {
+  color: #6087fa;
+  border: 1px solid #6087fa;
+  transition: color linear 250ms;
+}
